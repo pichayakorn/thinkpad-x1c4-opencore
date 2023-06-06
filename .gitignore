@@ -1,0 +1,19 @@
+# Folder view configuration files
+.DS_Store
+.DS_Store?
+Desktop.ini
+
+# Thumbnail cache files
+._*
+ehthumbs.db
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+System Volume Information
